@@ -1,5 +1,3 @@
-# Nicolas Rubiano
-
 Backend developer focused on distributed systems and how things hold up at scale — Go, Java, real-time pipelines, container orchestration.
 
 The hard problems are always in how the pieces fit together.
@@ -21,20 +19,3 @@ The hard problems are always in how the pieces fit together.
 ## Currently Building
 
 A reverse proxy from scratch — connection handling, request routing, load balancing. The kind of project where you stop using tools and start understanding them.
-
----
-
-## Stack
-
-**Languages** — Go · Java · Python · TypeScript · SQL  
-**Databases** — PostgreSQL · MongoDB · Redis · Elasticsearch · DynamoDB  
-**Infrastructure** — Kubernetes · Docker · Kafka · RabbitMQ · Terraform · GitHub Actions · gRPC  
-**Observability** — Prometheus · Grafana · OpenTelemetry · Jaeger  
-
----
-
-## Links
-
-Portfolio — [Nr-009.github.io](https://Nr-009.github.io)  
-LinkedIn — [nicolas-rubiano](https://www.linkedin.com/in/nicolas-rubiano/)  
-Email — nickrubiano01@gmail.com
