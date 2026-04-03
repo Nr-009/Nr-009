@@ -1,16 +1,40 @@
-## Hi there 👋
+# Nicolas Rubiano
 
-<!--
-**Nr-009/Nr-009** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Backend developer focused on distributed systems and how things hold up at scale — Go, Java, real-time pipelines, container orchestration.
 
-Here are some ideas to get you started:
+The hard problems are always in how the pieces fit together.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## Projects
+
+**[Pairly](https://github.com/Nr-009/Parily)** — Real-time collaborative code editor. Horizontal WebSocket scaling via Redis pub/sub, Yjs CRDT sync, sandboxed code execution, Kubernetes deployment with full observability.
+
+**[French Book Difficulty Analyzer](https://github.com/Nr-009/french-analyzer)** — Distributed NLP pipeline that scores French book difficulty against your personal Anki vocabulary and exports a ready-to-study deck.
+
+**[MangaSearch](https://github.com/Nr-009/mangasearch)** — Local manga quote search. Type a quote, get the exact chapter and page back in milliseconds.
+
+**[AnkiGames](https://github.com/Nr-009/AnkiGames)** — Two game modes for Anki. Published on AnkiWeb.
+
+---
+
+## Currently Building
+
+A reverse proxy from scratch — connection handling, request routing, load balancing. The kind of project where you stop using tools and start understanding them.
+
+---
+
+## Stack
+
+**Languages** — Go · Java · Python · TypeScript · SQL  
+**Databases** — PostgreSQL · MongoDB · Redis · Elasticsearch · DynamoDB  
+**Infrastructure** — Kubernetes · Docker · Kafka · RabbitMQ · Terraform · GitHub Actions · gRPC  
+**Observability** — Prometheus · Grafana · OpenTelemetry · Jaeger  
+
+---
+
+## Links
+
+Portfolio — [Nr-009.github.io](https://Nr-009.github.io)  
+LinkedIn — [nicolas-rubiano](https://www.linkedin.com/in/nicolas-rubiano/)  
+Email — nickrubiano01@gmail.com
